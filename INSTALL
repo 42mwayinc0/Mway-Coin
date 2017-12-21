@@ -1,0 +1,9 @@
+Building Milkway
+
+See doc/readme-qt.rst for instructions on building Milkway QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Milkway.
+
+See doc/build-*.txt for instructions on building milkwayd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Milkway.
